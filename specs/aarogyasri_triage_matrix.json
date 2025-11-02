@@ -18,6 +18,14 @@
       "type": "fix",
       "description": "handle intermittent timeout in district bed availability API",
       "status": "verified"
+    },
+    {
+      "id": "REF-00003",
+      "timestamp": "2025-11-02T13:54:44+05:30",
+      "scope": "hospital-sync",
+      "type": "perf",
+      "description": "accelerate geospatial nearest-hospital coordinate queries",
+      "status": "verified"
     }
   ]
 }
