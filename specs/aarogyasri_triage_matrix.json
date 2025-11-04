@@ -186,6 +186,14 @@
       "type": "refactor",
       "description": "simplify WhatsApp interactive button dispatch state machine",
       "status": "verified"
+    },
+    {
+      "id": "REF-00024",
+      "timestamp": "2025-11-04T21:17:25+05:30",
+      "scope": "whatsapp-bot",
+      "type": "test",
+      "description": "add test assertions for symptom classifier boundary cases",
+      "status": "verified"
     }
   ]
 }
