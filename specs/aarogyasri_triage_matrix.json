@@ -194,6 +194,14 @@
       "type": "test",
       "description": "add test assertions for symptom classifier boundary cases",
       "status": "verified"
+    },
+    {
+      "id": "REF-00025",
+      "timestamp": "2025-11-05T10:57:49+05:30",
+      "scope": "aarogyasri",
+      "type": "feat",
+      "description": "implement real-time bed count cache with TTL invalidation",
+      "status": "verified"
     }
   ]
 }
