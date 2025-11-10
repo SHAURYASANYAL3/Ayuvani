@@ -554,6 +554,14 @@
       "type": "feat",
       "description": "introduce automated bed reservation request queue",
       "status": "verified"
+    },
+    {
+      "id": "REF-00070",
+      "timestamp": "2025-11-10T16:50:47+05:30",
+      "scope": "aarogyasri",
+      "type": "fix",
+      "description": "handle missing pin codes in rural sub-center locator",
+      "status": "verified"
     }
   ]
 }
