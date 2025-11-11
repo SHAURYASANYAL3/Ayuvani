@@ -642,6 +642,14 @@
       "type": "fix",
       "description": "normalize regional hospital names across legacy registry feeds",
       "status": "verified"
+    },
+    {
+      "id": "REF-00081",
+      "timestamp": "2025-11-11T21:16:56+05:30",
+      "scope": "config",
+      "type": "chore",
+      "description": "adjust webhook retry backoff schedule for WhatsApp Cloud API",
+      "status": "verified"
     }
   ]
 }
