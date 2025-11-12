@@ -674,6 +674,14 @@
       "type": "docs",
       "description": "detail clinical decision tree flowcharts and fallback protocols",
       "status": "verified"
+    },
+    {
+      "id": "REF-00085",
+      "timestamp": "2025-11-12T15:23:01+05:30",
+      "scope": "routing",
+      "type": "test",
+      "description": "validate Telugu voice prompt synthesis phonetic mappings",
+      "status": "verified"
     }
   ]
 }
