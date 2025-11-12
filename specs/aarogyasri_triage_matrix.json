@@ -658,6 +658,14 @@
       "type": "perf",
       "description": "compress audio response payloads for low-bandwidth cellular users",
       "status": "verified"
+    },
+    {
+      "id": "REF-00083",
+      "timestamp": "2025-11-12T12:27:06+05:30",
+      "scope": "telugu-nlp",
+      "type": "feat",
+      "description": "add emergency priority override for acute trauma triage",
+      "status": "verified"
     }
   ]
 }
