@@ -826,6 +826,14 @@
       "type": "test",
       "description": "validate Telugu voice prompt synthesis phonetic mappings",
       "status": "verified"
+    },
+    {
+      "id": "REF-00104",
+      "timestamp": "2025-11-15T18:20:26+05:30",
+      "scope": "voice",
+      "type": "refactor",
+      "description": "extract common district lookup table into shared utility",
+      "status": "verified"
     }
   ]
 }
