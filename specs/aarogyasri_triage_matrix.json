@@ -898,6 +898,14 @@
       "type": "docs",
       "description": "update Aarogyasri scheme eligibility coverage reference",
       "status": "verified"
+    },
+    {
+      "id": "REF-00113",
+      "timestamp": "2025-11-16T19:48:08+05:30",
+      "scope": "voice",
+      "type": "refactor",
+      "description": "simplify WhatsApp interactive button dispatch state machine",
+      "status": "verified"
     }
   ]
 }
