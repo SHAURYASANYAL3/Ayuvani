@@ -866,6 +866,14 @@
       "type": "chore",
       "description": "standardize hospital admission status error messages",
       "status": "verified"
+    },
+    {
+      "id": "REF-00109",
+      "timestamp": "2025-11-16T13:54:44+05:30",
+      "scope": "triage",
+      "type": "feat",
+      "description": "enhance Telugu medical tokenization with coastal dialect rules",
+      "status": "verified"
     }
   ]
 }
