@@ -1018,6 +1018,14 @@
       "type": "feat",
       "description": "enhance Telugu medical tokenization with coastal dialect rules",
       "status": "verified"
+    },
+    {
+      "id": "REF-00128",
+      "timestamp": "2025-11-18T18:20:48+05:30",
+      "scope": "telugu-nlp",
+      "type": "fix",
+      "description": "handle intermittent timeout in district bed availability API",
+      "status": "verified"
     }
   ]
 }
