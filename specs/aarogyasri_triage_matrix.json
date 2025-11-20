@@ -1138,6 +1138,14 @@
       "type": "fix",
       "description": "handle missing pin codes in rural sub-center locator",
       "status": "verified"
+    },
+    {
+      "id": "REF-00143",
+      "timestamp": "2025-11-20T16:50:57+05:30",
+      "scope": "geo",
+      "type": "perf",
+      "description": "precompute routing distance matrices for primary health centers",
+      "status": "verified"
     }
   ]
 }
