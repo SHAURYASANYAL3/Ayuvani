@@ -1178,6 +1178,14 @@
       "type": "perf",
       "description": "accelerate geospatial nearest-hospital coordinate queries",
       "status": "verified"
+    },
+    {
+      "id": "REF-00148",
+      "timestamp": "2025-11-21T12:26:22+05:30",
+      "scope": "routing",
+      "type": "docs",
+      "description": "update Aarogyasri scheme eligibility coverage reference",
+      "status": "verified"
     }
   ]
 }
