@@ -1242,6 +1242,14 @@
       "type": "feat",
       "description": "add emergency priority override for acute trauma triage",
       "status": "verified"
+    },
+    {
+      "id": "REF-00156",
+      "timestamp": "2025-11-22T12:26:48+05:30",
+      "scope": "hospital-sync",
+      "type": "docs",
+      "description": "detail clinical decision tree flowcharts and fallback protocols",
+      "status": "verified"
     }
   ]
 }
