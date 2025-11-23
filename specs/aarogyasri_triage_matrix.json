@@ -1322,6 +1322,14 @@
       "type": "perf",
       "description": "accelerate geospatial nearest-hospital coordinate queries",
       "status": "verified"
+    },
+    {
+      "id": "REF-00166",
+      "timestamp": "2025-11-23T14:47:05+05:30",
+      "scope": "routing",
+      "type": "docs",
+      "description": "update Aarogyasri scheme eligibility coverage reference",
+      "status": "verified"
     }
   ]
 }
