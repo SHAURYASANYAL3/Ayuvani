@@ -706,3 +706,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Extract common district lookup table into shared utility.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00177] 2025-11-24 18:20:01 - feat(whatsapp-bot)
+- **Summary**: Introduce automated bed reservation request queue.
+- **Verification**: State integrity confirmed, checksum passed.
+
