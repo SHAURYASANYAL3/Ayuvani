@@ -1498,6 +1498,14 @@
       "type": "feat",
       "description": "implement real-time bed count cache with TTL invalidation",
       "status": "verified"
+    },
+    {
+      "id": "REF-00188",
+      "timestamp": "2025-11-26T10:50:04+05:30",
+      "scope": "geo",
+      "type": "fix",
+      "description": "normalize regional hospital names across legacy registry feeds",
+      "status": "verified"
     }
   ]
 }
