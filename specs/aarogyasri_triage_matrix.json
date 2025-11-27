@@ -1570,6 +1570,14 @@
       "type": "fix",
       "description": "handle missing pin codes in rural sub-center locator",
       "status": "verified"
+    },
+    {
+      "id": "REF-00197",
+      "timestamp": "2025-11-27T10:58:50+05:30",
+      "scope": "geo",
+      "type": "perf",
+      "description": "precompute routing distance matrices for primary health centers",
+      "status": "verified"
     }
   ]
 }
