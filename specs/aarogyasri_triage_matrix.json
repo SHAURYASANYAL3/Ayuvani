@@ -1578,6 +1578,14 @@
       "type": "perf",
       "description": "precompute routing distance matrices for primary health centers",
       "status": "verified"
+    },
+    {
+      "id": "REF-00198",
+      "timestamp": "2025-11-27T12:26:06+05:30",
+      "scope": "config",
+      "type": "chore",
+      "description": "standardize hospital admission status error messages",
+      "status": "verified"
     }
   ]
 }
