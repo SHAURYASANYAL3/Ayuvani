@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00025",
-      "timestamp": "2025-11-05T10:57:49+05:30",
-      "scope": "aarogyasri",
-      "type": "feat",
-      "description": "implement real-time bed count cache with TTL invalidation",
-      "status": "verified"
-    },
-    {
       "id": "REF-00026",
       "timestamp": "2025-11-05T12:26:11+05:30",
       "scope": "geo",
@@ -1601,6 +1593,14 @@
       "scope": "geo",
       "type": "fix",
       "description": "normalize regional hospital names across legacy registry feeds",
+      "status": "verified"
+    },
+    {
+      "id": "REF-00225",
+      "timestamp": "2025-11-30T16:52:37+05:30",
+      "scope": "config",
+      "type": "chore",
+      "description": "adjust webhook retry backoff schedule for WhatsApp Cloud API",
       "status": "verified"
     }
   ]
