@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00078",
-      "timestamp": "2025-11-11T16:51:53+05:30",
-      "scope": "whatsapp-bot",
-      "type": "test",
-      "description": "add test assertions for symptom classifier boundary cases",
-      "status": "verified"
-    },
-    {
       "id": "REF-00079",
       "timestamp": "2025-11-11T18:19:40+05:30",
       "scope": "aarogyasri",
@@ -1601,6 +1593,14 @@
       "scope": "aarogyasri",
       "type": "feat",
       "description": "implement real-time bed count cache with TTL invalidation",
+      "status": "verified"
+    },
+    {
+      "id": "REF-00278",
+      "timestamp": "2025-12-07T12:27:37+05:30",
+      "scope": "geo",
+      "type": "fix",
+      "description": "normalize regional hospital names across legacy registry feeds",
       "status": "verified"
     }
   ]
