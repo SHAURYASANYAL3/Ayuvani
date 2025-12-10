@@ -668,3 +668,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Detail clinical decision tree flowcharts and fallback protocols.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00301] 2025-12-10 10:57:39 - test(routing)
+- **Summary**: Validate telugu voice prompt synthesis phonetic mappings.
+- **Verification**: State integrity confirmed, checksum passed.
+
