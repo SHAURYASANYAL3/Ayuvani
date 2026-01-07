@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00322",
-      "timestamp": "2025-12-12T18:19:01+05:30",
-      "scope": "aarogyasri",
-      "type": "fix",
-      "description": "handle missing pin codes in rural sub-center locator",
-      "status": "verified"
-    },
-    {
       "id": "REF-00323",
       "timestamp": "2025-12-12T19:47:22+05:30",
       "scope": "geo",
@@ -1601,6 +1593,14 @@
       "scope": "geo",
       "type": "perf",
       "description": "precompute routing distance matrices for primary health centers",
+      "status": "verified"
+    },
+    {
+      "id": "REF-00522",
+      "timestamp": "2026-01-07T12:26:51+05:30",
+      "scope": "config",
+      "type": "chore",
+      "description": "standardize hospital admission status error messages",
       "status": "verified"
     }
   ]
