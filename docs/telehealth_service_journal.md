@@ -792,3 +792,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Compress audio response payloads for low-bandwidth cellular users.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00533] 2026-01-08 16:52:20 - feat(telugu-nlp)
+- **Summary**: Add emergency priority override for acute trauma triage.
+- **Verification**: State integrity confirmed, checksum passed.
+
