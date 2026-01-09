@@ -560,3 +560,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Enhance telugu medical tokenization with coastal dialect rules.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00542] 2026-01-09 18:19:10 - fix(telugu-nlp)
+- **Summary**: Handle intermittent timeout in district bed availability api.
+- **Verification**: State integrity confirmed, checksum passed.
+
