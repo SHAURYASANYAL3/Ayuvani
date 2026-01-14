@@ -728,3 +728,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Implement real-time bed count cache with ttl invalidation.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00584] 2026-01-14 21:16:30 - fix(geo)
+- **Summary**: Normalize regional hospital names across legacy registry feeds.
+- **Verification**: State integrity confirmed, checksum passed.
+
