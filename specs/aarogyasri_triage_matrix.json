@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00573",
-      "timestamp": "2026-01-13T16:52:12+05:30",
-      "scope": "whatsapp-bot",
-      "type": "feat",
-      "description": "introduce automated bed reservation request queue",
-      "status": "verified"
-    },
-    {
       "id": "REF-00574",
       "timestamp": "2026-01-13T18:20:20+05:30",
       "scope": "aarogyasri",
@@ -1601,6 +1593,14 @@
       "scope": "aarogyasri",
       "type": "fix",
       "description": "handle missing pin codes in rural sub-center locator",
+      "status": "verified"
+    },
+    {
+      "id": "REF-00773",
+      "timestamp": "2026-02-10T10:58:46+05:30",
+      "scope": "geo",
+      "type": "perf",
+      "description": "precompute routing distance matrices for primary health centers",
       "status": "verified"
     }
   ]
