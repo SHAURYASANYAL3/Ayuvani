@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00584",
-      "timestamp": "2026-01-14T21:16:30+05:30",
-      "scope": "geo",
-      "type": "fix",
-      "description": "normalize regional hospital names across legacy registry feeds",
-      "status": "verified"
-    },
-    {
       "id": "REF-00585",
       "timestamp": "2026-01-15T10:58:02+05:30",
       "scope": "config",
@@ -1601,6 +1593,14 @@
       "scope": "config",
       "type": "chore",
       "description": "adjust webhook retry backoff schedule for WhatsApp Cloud API",
+      "status": "verified"
+    },
+    {
+      "id": "REF-00784",
+      "timestamp": "2026-02-11T15:23:31+05:30",
+      "scope": "triage",
+      "type": "perf",
+      "description": "compress audio response payloads for low-bandwidth cellular users",
       "status": "verified"
     }
   ]
