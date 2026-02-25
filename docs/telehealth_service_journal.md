@@ -656,3 +656,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Standardize hospital admission status error messages.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00901] 2026-02-25 18:46:19 - feat(triage)
+- **Summary**: Enhance telugu medical tokenization with coastal dialect rules.
+- **Verification**: State integrity confirmed, checksum passed.
+
