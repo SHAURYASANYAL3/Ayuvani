@@ -680,3 +680,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Add test assertions for symptom classifier boundary cases.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00907] 2026-02-26 15:23:47 - feat(aarogyasri)
+- **Summary**: Implement real-time bed count cache with ttl invalidation.
+- **Verification**: State integrity confirmed, checksum passed.
+
