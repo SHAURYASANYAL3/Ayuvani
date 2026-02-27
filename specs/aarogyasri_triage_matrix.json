@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00712",
-      "timestamp": "2026-02-02T16:50:52+05:30",
-      "scope": "triage",
-      "type": "perf",
-      "description": "compress audio response payloads for low-bandwidth cellular users",
-      "status": "verified"
-    },
-    {
       "id": "REF-00713",
       "timestamp": "2026-02-02T18:19:33+05:30",
       "scope": "telugu-nlp",
@@ -1601,6 +1593,14 @@
       "scope": "telugu-nlp",
       "type": "feat",
       "description": "add emergency priority override for acute trauma triage",
+      "status": "verified"
+    },
+    {
+      "id": "REF-00912",
+      "timestamp": "2026-02-27T10:58:16+05:30",
+      "scope": "hospital-sync",
+      "type": "docs",
+      "description": "detail clinical decision tree flowcharts and fallback protocols",
       "status": "verified"
     }
   ]
