@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00741",
-      "timestamp": "2026-02-06T10:57:34+05:30",
-      "scope": "hospital-sync",
-      "type": "perf",
-      "description": "accelerate geospatial nearest-hospital coordinate queries",
-      "status": "verified"
-    },
-    {
       "id": "REF-00742",
       "timestamp": "2026-02-06T12:27:26+05:30",
       "scope": "routing",
@@ -1601,6 +1593,14 @@
       "scope": "routing",
       "type": "docs",
       "description": "update Aarogyasri scheme eligibility coverage reference",
+      "status": "verified"
+    },
+    {
+      "id": "REF-00941",
+      "timestamp": "2026-03-02T18:20:39+05:30",
+      "scope": "voice",
+      "type": "refactor",
+      "description": "simplify WhatsApp interactive button dispatch state machine",
       "status": "verified"
     }
   ]
