@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00740",
-      "timestamp": "2026-02-05T21:15:50+05:30",
-      "scope": "telugu-nlp",
-      "type": "fix",
-      "description": "handle intermittent timeout in district bed availability API",
-      "status": "verified"
-    },
-    {
       "id": "REF-00741",
       "timestamp": "2026-02-06T10:57:34+05:30",
       "scope": "hospital-sync",
@@ -1601,6 +1593,14 @@
       "scope": "hospital-sync",
       "type": "perf",
       "description": "accelerate geospatial nearest-hospital coordinate queries",
+      "status": "verified"
+    },
+    {
+      "id": "REF-00940",
+      "timestamp": "2026-03-02T16:51:14+05:30",
+      "scope": "routing",
+      "type": "docs",
+      "description": "update Aarogyasri scheme eligibility coverage reference",
       "status": "verified"
     }
   ]
