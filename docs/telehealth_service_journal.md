@@ -552,3 +552,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Simplify whatsapp interactive button dispatch state machine.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00942] 2026-03-02 19:48:29 - test(whatsapp-bot)
+- **Summary**: Add test assertions for symptom classifier boundary cases.
+- **Verification**: State integrity confirmed, checksum passed.
+
