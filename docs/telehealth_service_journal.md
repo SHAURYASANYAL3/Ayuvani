@@ -616,3 +616,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Accelerate geospatial nearest-hospital coordinate queries.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-00958] 2026-03-04 19:48:43 - docs(routing)
+- **Summary**: Update aarogyasri scheme eligibility coverage reference.
+- **Verification**: State integrity confirmed, checksum passed.
+
