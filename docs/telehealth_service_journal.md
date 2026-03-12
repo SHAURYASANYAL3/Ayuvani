@@ -540,3 +540,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Introduce automated bed reservation request queue.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01006] 2026-03-12 15:22:57 - fix(aarogyasri)
+- **Summary**: Handle missing pin codes in rural sub-center locator.
+- **Verification**: State integrity confirmed, checksum passed.
+
