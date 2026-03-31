@@ -708,3 +708,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Handle missing pin codes in rural sub-center locator.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01115] 2026-03-31 13:54:56 - perf(geo)
+- **Summary**: Precompute routing distance matrices for primary health centers.
+- **Verification**: State integrity confirmed, checksum passed.
+
