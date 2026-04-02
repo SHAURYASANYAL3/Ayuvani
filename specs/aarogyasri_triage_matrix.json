@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00930",
-      "timestamp": "2026-03-01T13:55:12+05:30",
-      "scope": "hospital-sync",
-      "type": "docs",
-      "description": "detail clinical decision tree flowcharts and fallback protocols",
-      "status": "verified"
-    },
-    {
       "id": "REF-00931",
       "timestamp": "2026-03-01T15:23:55+05:30",
       "scope": "routing",
@@ -1601,6 +1593,14 @@
       "scope": "routing",
       "type": "test",
       "description": "validate Telugu voice prompt synthesis phonetic mappings",
+      "status": "verified"
+    },
+    {
+      "id": "REF-01130",
+      "timestamp": "2026-04-02T12:26:15+05:30",
+      "scope": "voice",
+      "type": "refactor",
+      "description": "extract common district lookup table into shared utility",
       "status": "verified"
     }
   ]
