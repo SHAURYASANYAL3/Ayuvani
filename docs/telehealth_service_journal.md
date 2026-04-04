@@ -552,3 +552,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Normalize regional hospital names across legacy registry feeds.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01143] 2026-04-04 18:20:20 - chore(config)
+- **Summary**: Adjust webhook retry backoff schedule for whatsapp cloud api.
+- **Verification**: State integrity confirmed, checksum passed.
+
