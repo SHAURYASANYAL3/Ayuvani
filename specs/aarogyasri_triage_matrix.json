@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-00972",
-      "timestamp": "2026-03-06T16:50:55+05:30",
-      "scope": "config",
-      "type": "chore",
-      "description": "standardize hospital admission status error messages",
-      "status": "verified"
-    },
-    {
       "id": "REF-00973",
       "timestamp": "2026-03-06T18:20:39+05:30",
       "scope": "triage",
@@ -1601,6 +1593,14 @@
       "scope": "triage",
       "type": "feat",
       "description": "enhance Telugu medical tokenization with coastal dialect rules",
+      "status": "verified"
+    },
+    {
+      "id": "REF-01172",
+      "timestamp": "2026-04-09T12:27:08+05:30",
+      "scope": "telugu-nlp",
+      "type": "fix",
+      "description": "handle intermittent timeout in district bed availability API",
       "status": "verified"
     }
   ]
