@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-01031",
-      "timestamp": "2026-03-15T16:51:21+05:30",
-      "scope": "voice",
-      "type": "refactor",
-      "description": "simplify WhatsApp interactive button dispatch state machine",
-      "status": "verified"
-    },
-    {
       "id": "REF-01032",
       "timestamp": "2026-03-15T18:20:46+05:30",
       "scope": "whatsapp-bot",
@@ -1601,6 +1593,14 @@
       "scope": "whatsapp-bot",
       "type": "test",
       "description": "add test assertions for symptom classifier boundary cases",
+      "status": "verified"
+    },
+    {
+      "id": "REF-01231",
+      "timestamp": "2026-04-19T12:08:17+05:30",
+      "scope": "aarogyasri",
+      "type": "feat",
+      "description": "implement real-time bed count cache with TTL invalidation",
       "status": "verified"
     }
   ]
