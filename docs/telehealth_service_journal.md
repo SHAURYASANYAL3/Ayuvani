@@ -684,3 +684,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Validate telugu voice prompt synthesis phonetic mappings.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01310] 2026-05-02 13:55:38 - refactor(voice)
+- **Summary**: Extract common district lookup table into shared utility.
+- **Verification**: State integrity confirmed, checksum passed.
+
