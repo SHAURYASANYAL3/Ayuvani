@@ -700,3 +700,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Precompute routing distance matrices for primary health centers.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01314] 2026-05-02 19:48:11 - chore(config)
+- **Summary**: Standardize hospital admission status error messages.
+- **Verification**: State integrity confirmed, checksum passed.
+
