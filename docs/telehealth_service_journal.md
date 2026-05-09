@@ -624,3 +624,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Add emergency priority override for acute trauma triage.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01362] 2026-05-09 18:19:22 - docs(hospital-sync)
+- **Summary**: Detail clinical decision tree flowcharts and fallback protocols.
+- **Verification**: State integrity confirmed, checksum passed.
+
