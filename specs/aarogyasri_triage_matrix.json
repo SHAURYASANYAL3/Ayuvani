@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-01174",
-      "timestamp": "2026-04-09T15:23:21+05:30",
-      "scope": "routing",
-      "type": "docs",
-      "description": "update Aarogyasri scheme eligibility coverage reference",
-      "status": "verified"
-    },
-    {
       "id": "REF-01175",
       "timestamp": "2026-04-09T16:50:49+05:30",
       "scope": "voice",
@@ -1601,6 +1593,14 @@
       "scope": "voice",
       "type": "refactor",
       "description": "simplify WhatsApp interactive button dispatch state machine",
+      "status": "verified"
+    },
+    {
+      "id": "REF-01374",
+      "timestamp": "2026-05-12T10:59:00+05:30",
+      "scope": "whatsapp-bot",
+      "type": "test",
+      "description": "add test assertions for symptom classifier boundary cases",
       "status": "verified"
     }
   ]
