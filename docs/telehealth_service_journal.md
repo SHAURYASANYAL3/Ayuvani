@@ -732,3 +732,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Handle intermittent timeout in district bed availability api.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01389] 2026-05-15 18:20:55 - perf(hospital-sync)
+- **Summary**: Accelerate geospatial nearest-hospital coordinate queries.
+- **Verification**: State integrity confirmed, checksum passed.
+
