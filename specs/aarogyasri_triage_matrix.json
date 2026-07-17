@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-01364",
-      "timestamp": "2026-05-09T21:15:41+05:30",
-      "scope": "voice",
-      "type": "refactor",
-      "description": "extract common district lookup table into shared utility",
-      "status": "verified"
-    },
-    {
       "id": "REF-01365",
       "timestamp": "2026-05-10T10:58:50+05:30",
       "scope": "whatsapp-bot",
@@ -1601,6 +1593,14 @@
       "scope": "whatsapp-bot",
       "type": "feat",
       "description": "introduce automated bed reservation request queue",
+      "status": "verified"
+    },
+    {
+      "id": "REF-01564",
+      "timestamp": "2026-07-17T15:22:36+05:30",
+      "scope": "aarogyasri",
+      "type": "fix",
+      "description": "handle missing pin codes in rural sub-center locator",
       "status": "verified"
     }
   ]
