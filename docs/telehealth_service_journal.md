@@ -540,3 +540,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Adjust webhook retry backoff schedule for whatsapp cloud api.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01810] 2026-09-07 15:23:32 - perf(triage)
+- **Summary**: Compress audio response payloads for low-bandwidth cellular users.
+- **Verification**: State integrity confirmed, checksum passed.
+
