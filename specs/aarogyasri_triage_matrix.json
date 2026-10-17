@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-01755",
-      "timestamp": "2026-08-28T12:26:03+05:30",
-      "scope": "config",
-      "type": "chore",
-      "description": "adjust webhook retry backoff schedule for WhatsApp Cloud API",
-      "status": "verified"
-    },
-    {
       "id": "REF-01756",
       "timestamp": "2026-08-28T13:54:03+05:30",
       "scope": "triage",
@@ -1601,6 +1593,14 @@
       "scope": "triage",
       "type": "perf",
       "description": "compress audio response payloads for low-bandwidth cellular users",
+      "status": "verified"
+    },
+    {
+      "id": "REF-01955",
+      "timestamp": "2026-10-17T13:54:56+05:30",
+      "scope": "telugu-nlp",
+      "type": "feat",
+      "description": "add emergency priority override for acute trauma triage",
       "status": "verified"
     }
   ]
