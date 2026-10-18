@@ -632,3 +632,7 @@ Automated architectural decision record, telemetry benchmarks, and operational a
 - **Summary**: Update aarogyasri scheme eligibility coverage reference.
 - **Verification**: State integrity confirmed, checksum passed.
 
+### [REF-01967] 2026-10-18 19:47:32 - refactor(voice)
+- **Summary**: Simplify whatsapp interactive button dispatch state machine.
+- **Verification**: State integrity confirmed, checksum passed.
+
