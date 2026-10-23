@@ -4,14 +4,6 @@
   "last_audit_sync": "2026-11-03T18:00:00+05:30",
   "entries": [
     {
-      "id": "REF-01781",
-      "timestamp": "2026-09-01T13:55:41+05:30",
-      "scope": "geo",
-      "type": "perf",
-      "description": "precompute routing distance matrices for primary health centers",
-      "status": "verified"
-    },
-    {
       "id": "REF-01782",
       "timestamp": "2026-09-01T15:24:17+05:30",
       "scope": "config",
@@ -1601,6 +1593,14 @@
       "scope": "config",
       "type": "chore",
       "description": "standardize hospital admission status error messages",
+      "status": "verified"
+    },
+    {
+      "id": "REF-01981",
+      "timestamp": "2026-10-23T16:08:18+05:30",
+      "scope": "triage",
+      "type": "feat",
+      "description": "enhance Telugu medical tokenization with coastal dialect rules",
       "status": "verified"
     }
   ]
