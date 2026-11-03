@@ -1,0 +1,6 @@
+{
+  "version": "1.0",
+  "districts_count": 26,
+  "cache_strategy": "in-memory-lru",
+  "target_latency_ms": 15
+}
